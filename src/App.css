@@ -1,0 +1,37 @@
+html{
+  background-color: rgb(214, 145, 145);
+}
+
+.container {
+
+text-align: center;
+margin-top:20px;
+position: relative;
+
+}
+
+.face {
+  width: 60px;
+  height: 60px;
+}
+.youtube {
+  width: 60px;
+  height: 60px;
+  padding-top:7px;
+}
+
+.git {
+  width: 60px;
+  height: 60px;
+}
+
+.social {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  padding-left:700px;
+}
+.card {
+  position: relative;
+}
+  
